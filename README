@@ -1,0 +1,6 @@
+# npm i koa-generator -g
+# koa2 [project name]
+# cd project-name
+# npm i 
+# npm i koa2-cors -S
+# npm run dev
